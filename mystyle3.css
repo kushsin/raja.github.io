@@ -1,0 +1,168 @@
+.top
+{
+
+	background: url(../images/kush3.jpg);
+	background-size:cover;
+	background-repeat: no-repeat;
+}
+label
+{
+	color: orange;
+	text-transform: capitalize;
+	font-size: 20px;
+}
+::placeholder
+{
+	text-transform: capitalize;
+}
+i
+{
+	color:#2fccd0;
+}
+
+.one
+{
+	margin-left: 26%;
+	margin-top: 10px;
+	padding: 5px 30px ;
+	border-radius: 30px;
+	border:none;
+
+
+}
+.one a
+{
+	text-decoration: none;
+	color:blue;
+	text-transform: capitalize;
+}
+.one:hover 
+{
+	color: #fff;
+	background: #ff4d73;
+	text-decoration: none;
+}
+/************first form end here**********************/
+/************second form start here******************/
+
+
+.second img
+{
+	height: 100px;
+	width: 100px;
+	border-radius: 80px;
+	margin-left:34%;
+	margin-top: 20px;
+}
+.second h1
+{
+	text-align: center;
+	margin-top: 60px;
+	color: orange;
+	text-transform: capitalize;
+}
+.second hr
+{   
+	
+	height:1px;
+	background:#60606060;
+}
+form
+{
+}
+.new
+{
+	width: 70%;
+	height: 550px;
+	background: blue;
+	margin-left: 40px;
+	margin-bottom: 30px;
+}
+.new input
+{
+	margin-left:80px;
+	margin-top: 20px;
+	padding-right: 60px;
+	outline: none;
+}
+.new input
+{
+
+	border:none;
+	border-bottom: 2px solid orange;
+	background: transparent;
+}
+
+::placeholder
+{
+	color:#fff;
+}
+.submit
+{
+	margin-left: 130px;
+	margin-top: 30px;
+	padding: 5px 20px;
+	border-radius: 20px;
+	border:none;
+	color: #fff;
+	background: #ff4d73;
+}
+.submit:hover
+{
+	color: #ff4d73;
+	background: #fff;
+}
+
+.extra input
+{
+	margin-left: 30px;
+}
+
+{
+	background: url(../images/kush3.jpg);
+	width: 100%;
+	height:300px;
+	margin-top: 40px;
+}
+.odd h1
+{
+	color: #ff4d73;
+}
+.odd
+{
+	width: 70%;
+	height:550px;
+	background: orange;
+ margin-top: 60px;
+ margin-left: 90px;
+}
+.odd label
+{
+	color:black;
+	margin-left: 80px;
+	margin-top: 10px;
+}
+.odd input
+{
+	margin-left: 80px;
+	border-radius: 20px;
+	border:none;
+	padding-top: 5px;
+	padding-right: 40px;
+
+}
+.two
+{
+	margin-left: 150px;
+	background:blue;
+	color: #fff;
+	border:none;
+	padding: 5px 20px;
+	text-transform: capitalize;
+
+
+}
+/********************second form end here******************************/
+/*******************third form start here***********************************/
+
+/********************third form end here***********************************/
